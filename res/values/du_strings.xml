@@ -43,6 +43,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <!-- Icon mask -->
     <string name="legacy_icon_mask_title">Force legacy icons to adapt</string>
     <string name="legacy_icon_mask_summary">Not recommended for use with icon packs</string>
+    <string name="icon_shape_rounded_square">temporary</string>
+    <string name="icon_shape_override_label_custom">smh</string>
 
     <!-- Icon size -->
     <string name="icon_size_title">Icon size</string>
